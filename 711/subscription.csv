@@ -1,0 +1,6 @@
+account_id	transaction_id	plan_name	plan_type	create_datetime	expiration_datetime	n_id
+op6ZS26J	fm220503c7i4	大杯拿鐵包月方案: 30天20杯	30D	2022/5/3 02:39	2022/6/1 23:59	A
+opIEJBNM	fm220503hbmp	大杯拿鐵包月方案: 30天20杯	30D	2022/5/3 12:16	2022/6/1 23:59	B
+opIEJBNM	fj220608qlhd	大杯美式包月方案: 30天20杯	30D	2022/6/8 11:05	2022/7/7 23:59	C
+opUSYTS3	fj220608n95s	大杯美式包月方案: 30天20杯	30D	2022/6/8 14:08	2022/7/7 23:59	D
+opWNO0MH	fj220711fx8p	晨光吐司系列包月方案: 30天10入	30D	2022/7/11 04:34	2022/8/9 23:59	E
