@@ -1,0 +1,7 @@
+SELECT student.*, score1.s_score AS 1_score, score2.s_score AS 2_score
+FROM student, score AS score1, score AS score2
+WHERE student.s_id = score1.s_id
+AND student.s_id = score2.s_id
+AND score1.c_id = 01
+AND score2.c_id = 02
+AND score1.s_score > score2.s_score;
